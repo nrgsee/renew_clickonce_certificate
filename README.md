@@ -1,7 +1,7 @@
 # renew_clickonce_certificate
 Renew expired ClickOnce certificate
 
-=========
+=====
 
 [Renew click once certificates](http://msdn.microsoft.com/en-us/library/ff369721.aspx) by adding 105 years to their expiration date.
 
